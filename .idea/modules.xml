@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DoorMsg.iml" filepath="$PROJECT_DIR$/DoorMsg.iml" />
+      <module fileurl="file://E:\menjin\DoorMsg\DoorMsg.iml" filepath="E:\menjin\DoorMsg\DoorMsg.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\menjin\DoorMsg\app\app.iml" filepath="E:\menjin\DoorMsg\app\app.iml" />
     </modules>
   </component>
 </project>
